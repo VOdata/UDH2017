@@ -2,6 +2,8 @@
 + locatie: Rijvaardigheidcentrum, Talingweg 120, 8218 NX Lelystad, Netherlands
 + datum/tijd: 21 juni, 09.00u - 21.00u
 
+# Voorbereiding:
+Download de hieronder aangegeven open data alvast op je laptop en neem het door. 
 
 ## Open Data 
 + [NDW actuele verkeersgegevens](https://data.overheid.nl/data/dataset/ndw-actuele-verkeersgegevens)
