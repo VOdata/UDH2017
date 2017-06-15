@@ -1,6 +1,6 @@
 # UDH2017 - Urban Data Hackathon 2017
 + locatie: Rijvaardigheidcentrum, Talingweg 120, 8218 NX Lelystad, Netherlands
-+ datum/tijd: 21 juni, 09.00u - 21.00u
++ datum/tijd: 21 juni, 08.30u - 21.00u
 
 # Voorbereiding:
 Download de hieronder aangegeven open data alvast op je laptop en neem het door. 
@@ -34,7 +34,7 @@ Download de hieronder aangegeven open data alvast op je laptop en neem het door.
 
  
  ## gesloten data
- De volgende databronnen zijn te verkrijgen op de dag van de hacakthon via een externe HDD of een lokale verbinding:
+ De volgende databronnen zijn te verkrijgen op de dag van de hacakthon via een externe HDD of een lokale verbinding. Vanwege de grootte van de data, zal deze alleen geleverd worden voor week 21 en 22 2017.
  + [Floating Car Data van Flitsmeister]
  
  + [kentekencamera data van de oeververbindingen in Rotterdam in zuidelijke richting]
