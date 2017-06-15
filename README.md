@@ -26,15 +26,17 @@ Download de hieronder aangegeven open data alvast op je laptop en neem het door.
 
 + [Digitaal topografisch bestand (DTB, GIS bestand met allerlei wegeigenschappen)](https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/dtb/)
 
++ [PDOK Publieke Dienstverlening op de Kaart](https://www.pdok.nl/)
+
 + [Allerlei andere geodata](https://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/)
 
 + [Weer (KNMI)](https://data.knmi.nl/datasets)
 
  
  ## gesloten data
- De volgende databronnen zijn te verkrijgen op de dag van de hacakthon via een externe HDD:
- + [Floating Car Data]
+ De volgende databronnen zijn te verkrijgen op de dag van de hacakthon via een externe HDD of een lokale verbinding:
+ + [Floating Car Data van Flitsmeister]
  
- + [kentekencamera data]
+ + [kentekencamera data van de oeververbindingen in Rotterdam in zuidelijke richting]
  
  + [voertuigdata van het RDW]
