@@ -8,6 +8,8 @@ Download de hieronder aangegeven open data alvast op je laptop en neem het door.
 ## Open Data 
 + [NDW actuele verkeersgegevens](https://data.overheid.nl/data/dataset/ndw-actuele-verkeersgegevens)
 
++ [NDW open data](http://opendata.ndw.nu/)
+
 + [NDW historische verkeersgegevens](http://ndw.kxa.nl) --> inloggegevens zullen op de dag van de hackathon verstrekt worden.
 
 + [NDW statusberichten](http://sb-ndw.kxa.nl) --> inloggegevens zullen op de dag van de hackathon verstrekt worden.
