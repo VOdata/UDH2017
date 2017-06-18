@@ -32,6 +32,8 @@ Download de hieronder aangegeven open data alvast op je laptop en neem het door.
 
 + [Weer (KNMI)](https://data.knmi.nl/datasets)
 
++ [RDW open data](https://opendata.rdw.nl/)
+
  
  ## gesloten data
  De volgende databronnen zijn te verkrijgen op de dag van de hacakthon via een externe HDD of een lokale verbinding. Vanwege de grootte van de data, zal deze alleen geleverd worden voor week 21 en 22 van 2017.
