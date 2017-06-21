@@ -54,7 +54,7 @@ plot(x = c(maxs$lon[N], mins$lon[N]), y = c(maxs$lat[N], mins$lat[N]) )
 
 
 for(i in 1:length(wegvakken)){
-  lines(x= wegvakken[[i]][,2],  y = wegvakken[[i]][,1] )
+  lines(x= wegvakken[[i]][,2],  y = wegvakken[[i]][,1], lwd=7 )
 }
 
 dev.off()
